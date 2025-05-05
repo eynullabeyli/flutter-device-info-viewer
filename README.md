@@ -87,13 +87,3 @@ Future<void> printDeviceInfo() async {
 | `manufacturer`     | `androidInfo.manufacturer`       | *Not available*               | Manufacturer name (Android only)                                    |
 
 ---
-
-## 👨‍💻 Author
-
-Made with ❤️ by [Your Name or GitHub Username]
-
----
-
-## 📄 License
-
-MIT
